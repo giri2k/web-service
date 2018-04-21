@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>com.him.gali.web-service</groupId>
 	<artifactId>web-service</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<!-- <build>
